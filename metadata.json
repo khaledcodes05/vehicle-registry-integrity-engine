@@ -1,0 +1,6 @@
+{
+  "name": "Vehicle Registry Integrity Engine",
+  "description": "Interactive educational dashboard demonstrating a multi-level Java inheritance hierarchy with SQL-style foreign-key constraints, ON UPDATE SET NULL, and ON DELETE CASCADE.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
